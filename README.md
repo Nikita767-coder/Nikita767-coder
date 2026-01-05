@@ -1,4 +1,4 @@
-## Hi, I'm Niku 👋
+## Hi, I'm Nikita Rote 👋
 
 🎓 Computer Engineering Student  
 💻 Aspiring Data Scientist / ML Engineer  
