@@ -40,6 +40,15 @@
 - Smart Predictive Maintenance System
 - Stock Market Trend Predictor
 
+- ---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikita767&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita767&layout=compact&theme=tokyonight&hide_border=true)
+
+
  📫 Connect with me
 - LinkedIn: <www.linkedin.com/in/nikita-rote-4b005b322>
 - Email: <nikitarote320@gmail.com>
