@@ -1,6 +1,6 @@
  Hi, I'm Nikita Rote 👋
 
-🎓 Computer Engineering Student  
+🎓 Computer Engineering Student, A SY Aspirant in Sanjivani University in Artificial Intelligence and Machine Learning 
 💻 Aspiring Data Scientist / ML Engineer  
 📍 India
 
@@ -44,11 +44,15 @@
 
 ---
 
- 📊 GitHub Statistics
+ ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikita767&show_icons=true&theme=dark&hide_border=true)
+## 📊 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita767&layout=compact&theme=dark&hide_border=true)
+- Actively maintaining ML, Data Science, and academic projects  
+- Primary languages: Python, Java, C++  
+- Consistent use of Git for version control  
+- Focused on clean documentation and reproducible code
+
 
 ---
 
